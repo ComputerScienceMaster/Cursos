@@ -4,7 +4,7 @@
 Instalação e Uso de acordo com necessidades dos projetos em outros repositórios que se aproveitarão de estudos neste treinamento. Ressaltando que a ideia é reaproveitar, copiando mesmo, os códigos aqui.
 
 ## History
-1. [clustering] Agrupamento / Clusterização Hierárquica.
+1. [clustering] Agrupamento / Clusterização Hierárquica - publicado no Master -.
 2. [preditive] TODO com base no projeto corrente.
 
 ps. Parte é original de @ComputerScienceMaster, e, a medida que os cursos e estudos forem formatados, migrar código de ~/todo_study/ para diretórios na raiz do repositório.
