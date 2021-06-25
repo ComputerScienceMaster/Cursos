@@ -11,7 +11,7 @@ Nesse repositório você encontrará diversos conteúdos e exemplos de código c
 - Programação
 
 
-Os exemplos que estão presentes nesse repositório foram postados em nosso website. Esse repositório tem a função de agregar todos os códigos dos artigos em um único lugar e armazenar. Se você quiser acessar os nossos cursos, acesse:
+Os exemplos que estão presentes nesse repositório foram postados em nosso website. Esse repositório tem a função de agregar todos os códigos presentes nos artigos dos cursos em um único lugar. Se você quiser acessar os nossos cursos, acesse:
 
 https://www.computersciencemaster.com.br/cursos/
 
