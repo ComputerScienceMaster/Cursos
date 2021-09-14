@@ -22,9 +22,7 @@ As pastas acima estão organizadas na mesma sequência do website e você pode c
 
 Os cursos postados no website e também presentes aqui no github, muitas vezes possuem bugs, problemas de lógica ou simplesmente existem formas diferentes de solucionar o mesmo problema. Assim, quanto mais diversificamos esses cursos mais completo nosso repositório fica. Meu objetivo aqui é fornecer conteúdo gratuito e de qualidade dentro da área de TI, sendo assim, fique à vontade para ajudar o repositório com seu conhecimento. 
 
-# Issues
-
-Utilize a seção de Issues desse repositório para tirar dúvidas e também apontar problemas nos conteúdos disponibilizados aqui.
+Eu utilizo a seção de "projetos" para documentar as documentações desse repositório. Nessa aba você encontra um backlog de atividades que precisam ser executadas (issues) com uma breve discussão. Se você deseja contribuir faça um fork e resolva uma das issues e crie um Pull Request :)
 
 # Licença 
 
