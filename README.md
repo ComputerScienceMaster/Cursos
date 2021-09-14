@@ -26,7 +26,7 @@ Eu utilizo a seção de "projetos" para documentar as documentações desse repo
 
 # Licença 
 
-Todos esses exercícios estão sob a licença Creative Commons Attribution-ShareAlike 4.0 International License. Isso significa que você pode compartilhar, remixar, etc. Porém, é necessário que você faça uma atribuição (link) para nosso website.
+Todos esses exercícios estão sob a licença Apache 2.0. Isso significa que você pode compartilhar, remixar, etc. Porém, é necessário que você faça uma atribuição (link) para nosso website.
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
