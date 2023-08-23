@@ -31,7 +31,7 @@ PythonLingo é uma aplicação destinada a pessoas que desejam aprender Python d
    - Implementar um calendário de estudos que permita aos usuários definir metas diárias ou semanais.
    - Enviar lembretes aos usuários para lembrá-los de suas sessões de estudo.
 
-Lembrando que essas são subtarefas específicas para cada requisito funcional e que a implementação final dependerá de suas habilidades de programação e das funcionalidades oferecidas pelo tkinter.
+**OBS: Lembrando que essas são subtarefas específicas para cada requisito funcional e que a implementação final dependerá de suas habilidades de programação e das funcionalidades oferecidas pelo tkinter.**
 
 
 ## Requisitos Não Funcionais
