@@ -48,8 +48,10 @@ Lembrando que essas são subtarefas específicas para cada requisito funcional e
 2. Certifique-se de ter o Python instalado em sua máquina.
 3. Abra o terminal e navegue até o diretório do projeto.
 4. Execute o comando `python app.py` para iniciar a aplicação.
-5. Abra o seu navegador e acesse `http://localhost:5000` para utilizar o PythonLingo.
+5. Uma interface será executada e é só utilizar o PythonLingo.
 
 ## Licença
 
 Este projeto está sob a licença [Exemplo de Licença](https://exemplo.com/licenca).
+
+(pesquisar sobre as possíveis licenças de software)
