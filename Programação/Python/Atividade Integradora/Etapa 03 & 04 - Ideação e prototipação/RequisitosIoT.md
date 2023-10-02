@@ -54,6 +54,6 @@ AppLinguas é uma aplicação destinada a pessoas que desejam aprender Python de
 
 Aqui você pode descrever usando imagens, texto e todo recurso que você precisar como sua Arquitetura IoT irá funcionar:
 
-
+![image](https://github.com/ComputerScienceMaster/Cursos/assets/13739735/07769bb9-5fc5-4a02-96ad-f87cfe9b1fab)
 
 
